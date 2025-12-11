@@ -355,6 +355,7 @@
 - AWS CLI cheat sheet
 - SageMaker cheat sheet
 - Boto3 quick reference
+- digitalcloud cheat sheet : https://digitalcloud.training/aws-cheat-sheets/#Explore
 
 **Community:**
 - r/AWSCertifications on Reddit
